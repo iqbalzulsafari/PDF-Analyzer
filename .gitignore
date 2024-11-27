@@ -1,2 +1,22 @@
-/.env
-/.venv
+# Ignore environment files
+.env
+.venv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore specific files
+secrets.json
+.gitignore
