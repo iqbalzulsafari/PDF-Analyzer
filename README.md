@@ -1,1 +1,1 @@
-#🌟 PDF Analyzer - Your AI Assistant for summarization
+# 🌟 PDF Analyzer - Your AI Assistant for summarization
